@@ -1,0 +1,79 @@
+{
+  "health_schemes": [
+    {
+      "name": "AyushmanBharat",
+      "link": "https://abdm.gov.in/",
+      "info": "Ayushman Bharat, also known as the Pradhan Mantri Jan Arogya Yojana (PM-JAY), is a national health protection scheme that aims to provide financial protection to over 100 million vulnerable families."
+    },
+    {
+      "name": "RashtriyaSwasthyaBimaYojana(RSBY)",
+      "link": "https://www.india.gov.in/spotlight/rashtriya-swasthya-bima-yojana",
+      "info": "RSBY has been launched by Ministry of Labour and Employment, Government of India to provide health insurance coverage for Below Poverty Line (BPL) families. The objective of RSBY is to provide protection to BPL households from financial liabilities arising out of health shocks that involve hospitalization."
+    },
+    {
+      "name": "NationalHealthMission(NHM)",
+      "link": "https://nhm.gov.in/",
+      "info": "NHM is aimed at providing accessible, affordable, and quality healthcare to rural populations, especially mothers and children."
+    },
+    {
+      "name": "JananiSurakshaYojana(JSY)",
+      "link": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=309&sublinkid=841",
+      "info": "JSY is a safe motherhood intervention under the National Health Mission (NHM) that provides cash assistance to pregnant women for delivery in a health facility."
+    },
+    {
+      "name": "MissionIndradhanush",
+      "link": "https://vikaspedia.in/health/nrhm/national-health-programmes-1/mission-indhradhanush",
+      "info": "Mission Indradhanush aims to immunize all children under the age of 2 years and pregnant women against seven vaccine-preventable diseases."
+    },
+    {
+      "name": "NationalRuralHealthMission(NRHM)",
+      "link": "https://nhm.gov.in/index1.php?lang=1&level=1&lid=49&sublinkid=969",
+      "info": "NRHM focuses on providing healthcare services in rural areas, with a special emphasis on 18 states with weak public health indicators."
+    },
+    {
+      "name": "SwachhBharatMission-HealthandHygiene",
+      "link": "https://swachhbharatmission.gov.in/sbmcms/index.htm",
+      "info": "Under the Swachh Bharat Mission, initiatives are taken to ensure cleanliness and hygiene, contributing to better health outcomes."
+    },
+    {
+      "name": "NationalAIDSControlProgramme(NACP)",
+      "link": "https://naco.gov.in/nacp",
+      "info": "NACP aims to prevent new HIV infections and reduce morbidity and mortality due to HIV/AIDS."
+    },
+    {
+      "name": "PulsePolioProgramme",
+      "link": "https://main.mohfw.gov.in/?q=Major-Programmes/Pulse-Polio-Programme",
+      "info": "The Pulse Polio Programme is an immunization campaign to eliminate polio in India by vaccinating all children under 5 years of age against poliovirus."
+    },
+    {
+      "name": "NationalTuberculosisControlProgramme(NTCP)",
+      "link": "https://tbcindia.gov.in/",
+      "info": "NTCP focuses on the prevention, diagnosis, and treatment of tuberculosis, aiming to eliminate TB from India by 2025."
+    },
+    {
+      "name": "PradhanMantriSurakshitMatritvaAbhiyan(PMSMA)",
+      "link": "https://pmsma.mohfw.gov.in/",
+      "info": "PMSMA provides free antenatal care to pregnant women on the 9th of every month to ensure their health and well-being during pregnancy."
+    },
+    {
+      "name": "NationalMentalHealthProgramme(NMHP)",
+      "link": "https://nhm.gov.in/index1.php?lang=1&level=2&sublinkid=1043&lid=359",
+      "info": "NMHP aims to provide accessible, affordable, and quality mental health care services, promote mental health, and reduce the stigma associated with mental illness."
+    },
+    {
+      "name": "PradhanMantriBhartiyaJanAushadhiPariYojana(PMBJP)",
+      "link": "https://janaushadhi.gov.in/pmjy.aspx",
+      "info": "PMBJP aims to provide quality generic medicines at affordable prices through Jan Aushadhi Kendras, promoting healthcare accessibility."
+    },
+    {
+      "name": "NationalUrbanHealthMission(NUHM)",
+      "link": "https://nhm.gov.in/index1.php?lang=1&level=1&sublinkid=970&lid=137",
+      "info": "NUHM focuses on improving the health status of the urban population by providing equitable and quality healthcare services."
+    },
+    {
+      "name": "NationalVectorBorneDiseaseControlProgramme(NVBDCP)",
+      "link": "https://ncvbdc.mohfw.gov.in/",
+      "info": "NVBDCP works towards the prevention and control of vector-borne diseases, including malaria, dengue, and chikungunya."
+    }
+  ]
+}

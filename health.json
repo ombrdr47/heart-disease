@@ -1,0 +1,82 @@
+[
+    {
+      "name": "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+      "link": "https://www.india.gov.in/schemes/ayushman-bharat-pm-jay",
+      "info": {
+        "description": "Provides health insurance coverage of upto Rs. 5 lakh per family per year for secondary and tertiary care hospitalization",
+        "eligibility": "Based on socio-economic deprivation scorecard",
+        "benefits": "Cashless treatment at empaneled hospitals, coverage for pre-existing conditions"
+      }
+    },
+    {
+      "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+      "link": "https://www.india.gov.in/schemes/pradhan-mantri-suraksha-bima-yojana",
+      "info": {
+        "description": "Provides accidental death and disability cover of Rs. 2 lakh for accidental death and Rs. 1 lakh for permanent disability",
+        "premium": "Rs. 12 per year",
+        "eligible_age": "18-70 years"
+      }
+    },
+    {
+      "name": "Rashtriya Swasthya Bima Yojana (RSBY)",
+      "link": "https://www.rsby.gov.in/",
+      "info": {
+        "description": "Provides health insurance coverage to informal sector workers and their families up to Rs. 50,000 per year",
+        "premium": "Partly paid by beneficiaries",
+        "coverage": "Hospitalization expenses, maternity care"
+      }
+    },
+    {
+      "name": "Janani Suraksha Yojana (JSY)",
+      "link": "https://www.nhp.gov.in/janani-suraksha-yojana",
+      "info": {
+        "description": "Provides cash assistance to pregnant women for institutional delivery",
+        "eligibility": "Pregnant women in rural areas, below poverty line",
+        "benefits": "Cash assistance for antenatal care, delivery, and postnatal care"
+      }
+    },
+    {
+      "name": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+      "link": "https://www.nhp.gov.in/pradhan-mantri-matru-vandana-yojana",
+      "info": {
+        "description": "Provides cash incentive to pregnant women and lactating mothers for the first living child",
+        "eligibility": "Pregnant women and lactating mothers, first living child",
+        "benefits": "Cash incentive of Rs. 5000 in three installments"
+      }
+    },
+    {
+      "name": "National Health Mission (NHM)",
+      "link": "https://www.nhp.gov.in/",
+      "info": {
+        "description": "Provides comprehensive healthcare services, including preventive, promotive, curative, and rehabilitative services",
+        "eligibility": "All citizens",
+        "benefits": "Free healthcare services at government health facilities"
+      }
+    },
+    {
+      "name": "National Immunization Programme (NIP)",
+      "link": "https://www.nhp.gov.in/national-immunization-programme",
+      "info": {
+        "description": "Provides free vaccines to children against preventable diseases",
+        "eligibility": "Children under 5 years",
+        "benefits": "Protection against diseases like polio, measles, diphtheria, etc."
+      }
+    },
+    {
+      "name": "National Cancer Control Programme (NCCP)",
+      "link": "https://www.nhp.gov.in/national-cancer-control-programme",
+      "info": {
+        "description": "Provides comprehensive cancer care services, including prevention, early detection, treatment, and palliative care",
+        "eligibility": "Cancer patients",
+        "benefits": "Free or subsidized cancer treatment at designated centers"
+      }
+    },
+    {
+      "name": "National Mental Health Programme (NMHP)",
+      "link": "https://www.nhp.gov.in/national-mental-health-programme",
+      "info": {
+        "description": "Provides mental health services, including prevention, early intervention, treatment, and rehabilitation",
+        "eligibility": "Persons with mental health disorders"
+      }
+        
+      }]
